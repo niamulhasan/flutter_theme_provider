@@ -1,7 +1,7 @@
-name: theme_provider
-description: A new Flutter package project.
+name: flutter_theme_provider
+description: A simple theme chenging plugin for flutter made top of provider 
 version: 0.0.1
-homepage:
+homepage: https://github.com/niamulhasan/flutter_theme_provider
 
 environment:
   sdk: ">=2.16.0 <3.0.0"
